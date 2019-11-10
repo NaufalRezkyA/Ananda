@@ -20,6 +20,8 @@ func hitungSkor(soal *int, skor *int, name *string) {
 	}
 }
 
+// Nama = Naufal Rezky Ananda
+
 func main() {
 	var skor1, skor2, soal1, soal2 int
 	var nama1, nama2 string
